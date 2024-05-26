@@ -1,0 +1,3 @@
+#define SECRET_SSID "kyeopta"
+#define SECRET_OPTIONAL_PASS "Kyeopt@08"
+#define SECRET_DEVICE_KEY "NYB0YJKow3Jr5SRyK@H1RhO?s"
